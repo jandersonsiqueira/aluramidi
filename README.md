@@ -39,3 +39,7 @@ Para visualizar outros projetos basta clicar no links que estarão abaixo.
    <li><a href="https://github.com/jandersonsiqueira/pong-js" target="_blank"> Pong - JS </a> 
    
    <li><a href="https://github.com/jandersonsiqueira/Imersao-Dev-6" target="_blank"> Imersão Dev 6 </a> 
+     
+   <li><a href="https://github.com/jandersonsiqueira/freeway-js" target="_blank"> Freeway-js </a> 
+     
+     
