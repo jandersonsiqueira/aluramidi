@@ -8,7 +8,7 @@
 
 ## Visão Geral
 
-Nesse projeto trabalhamos tínhamos o objetivo principal de "linkar" as ações dos botões do teclado com os sons que os mesmos reproduzem. Alguns adicionais foi manter a retrocompatibilidade das ações que alguns botões físicos (Ex: do teclado USB) fazem para emitir o som em diferentes navegadores.
+Nesse projeto tínhamos o objetivo principal de "linkar" as ações dos botões do teclado com os sons que os mesmos reproduzem. Alguns adicionais foi manter a retrocompatibilidade das ações que alguns botões físicos (Ex: do teclado USB) fazem para emitir o som em diferentes navegadores.
 
 ## Autor
 
